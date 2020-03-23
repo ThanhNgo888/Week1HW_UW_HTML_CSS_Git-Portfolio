@@ -5,3 +5,4 @@ As a web developer, I want a deployed portfolio, so that I can showcase my appli
 <!-- ![index file](assets/images/index1.png) -->
 <!-- ![body's css](assets/images/bodyCSS.png) -->
 <!-- [image's css](assets/images/imageCSS.png) -->
+<!-- [general CSS settings](assets/images/genralCSSsetting.png) -->
