@@ -60,6 +60,22 @@ h3 {
     border-bottom: 2px solid #cccccc;
 }
 
+#logo{
+    height: 100px;
+    width: 250px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 90px;
+    color: #ffffff;
+    background: #4aaaa5;
+
+}
+
 #image {
     float: left;
     width: 200px;
